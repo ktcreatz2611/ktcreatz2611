@@ -2,6 +2,8 @@
 <h3 align="center">UG at IIT Madras | Data Science Enthusiast | Exploring Big Data and AI</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktcreatz2611&label=Profile%20views&color=0e75b6&style=flat" alt="ktcreatz2611" /> </p>
+
 - 🌱 I’m currently learning **Python for Data Science**
 
 - 📋 Ask me about **Data Science And Graphics Designing**
